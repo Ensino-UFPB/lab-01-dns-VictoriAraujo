@@ -1,0 +1,4 @@
+zone "maria_victoria_marcelino_de_araujo.com" {
+    type master;
+    file "/etc/bind/db.maria_victoria_marcelino_de_araujo.com";
+};
